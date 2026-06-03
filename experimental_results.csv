@@ -1,0 +1,6 @@
+Method,Accuracy,Precision,Recall,F1-Score,AUC
+Baseline 1 (Edge/Shape RF),0.5,0.4230769230769231,0.6875,0.5238095238095238,0.59375
+Baseline 2 (LBP SVM),1.0,1.0,1.0,1.0,1.0
+Proposed Hybrid (RF),1.0,1.0,1.0,1.0,1.0
+Proposed Hybrid (SVM),0.4,0.4,1.0,0.5714285714285714,1.0
+Proposed Frequency-Only (RF),1.0,1.0,1.0,1.0,1.0
